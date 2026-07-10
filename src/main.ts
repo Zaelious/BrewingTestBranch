@@ -183,7 +183,10 @@ function renderShell(): void {
     </main>
 
     <footer>
-      <p id="data-date"></p>
+      <p>
+        If you'd like to upload your brewing data, send any files or questions to
+        <a href="mailto:admin@laeth.fyi">admin@laeth.fyi</a>
+      </p>
     </footer>
   `;
   applyTheme((document.documentElement.dataset.theme as 'light' | 'dark') || preferredTheme(), false);
