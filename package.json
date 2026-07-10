@@ -1,0 +1,17 @@
+{
+  "name": "project-gorgon-brewing-ledger",
+  "private": true,
+  "version": "0.3.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "validate:data": "node scripts/validate-data.mjs",
+    "test": "npm run validate:data && vitest run",
+    "build": "npm run validate:data && tsc --noEmit && vite build"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0",
+    "vitest": "^3.2.4"
+  }
+}

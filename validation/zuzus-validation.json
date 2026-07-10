@@ -1,0 +1,53 @@
+{
+  "sourceFile": "ZuzusBrewing_sorted(1).xlsx",
+  "sourceSheet": "Known Effects",
+  "sourceRecipeRows": 1702,
+  "pairedSourceRowsExpanded": 239,
+  "publishedRecipeRecords": 1941,
+  "uniqueRecipeIds": 1941,
+  "tentativeRecords": 4,
+  "recordsWithSemanticKeywords": 109,
+  "uniqueEffects": 216,
+  "uniqueDrinks": 21,
+  "categoryCounts": {
+    "Beer": 774,
+    "Cider": 110,
+    "Liquor": 880,
+    "Wine": 177
+  },
+  "drinkCounts": {
+    "Applejack": 110,
+    "Beet Vodka": 110,
+    "Bourbon": 110,
+    "Brown Ale": 129,
+    "Carrot Wine": 2,
+    "Cider": 110,
+    "Concord Wine": 1,
+    "Dry Gin": 110,
+    "Dwarven Stout": 129,
+    "Hegemony Lager": 129,
+    "Juniper Wine": 5,
+    "Orange Wine": 9,
+    "Orcish Bock": 129,
+    "Pale Rum": 110,
+    "Pear Wine": 22,
+    "Pilsner": 129,
+    "Porter": 129,
+    "Potato Vodka": 110,
+    "Rice Wine": 138,
+    "Tequila": 110,
+    "Whisky": 110
+  },
+  "confirmedMappings": {
+    "Bourbon": 70,
+    "Cider": 80,
+    "Pilsner": 80,
+    "Porter": 90
+  },
+  "checks": {
+    "duplicateIds": 0,
+    "emptyEffects": 0,
+    "emptyIngredientArrays": 0,
+    "invalidLevels": 0
+  }
+}
