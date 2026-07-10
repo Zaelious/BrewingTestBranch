@@ -102,7 +102,6 @@ function renderShell(): void {
           </span>
           <span>
             <strong>Brewing Ledger</strong>
-            <small>Project Gorgon guild tool</small>
           </span>
         </a>
 
